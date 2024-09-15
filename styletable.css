@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("Img/fundo.jpg");
+    background-size: 100%;
+}
+
+h1{
+    text-align: center;
+    margin: 40px;
+    color: white;    
+}
+
+td{
+    border-radius: 5px;
+    }
+
+table{
+    margin: 0% 10%;
+    width: 80%;
+}
+
+p{
+    color: white;
+    text-align: left;
+}
+
+h4, h6{
+    color:white;
+    text-align: center;
+}
+
+h3{
+    margin-top: 30px;
+    text-align: center;
+    color: #aaa;
+    font-size: 70%;
+}
+
+.center{
+    text-align: center;
+}
+
+.blueviolet{
+    background-color: #8A2BE2;
+}
+
+.crimson{
+    background-color: #DC143C
+}
+
+.coral{
+    background-color: #FF7F50;
+}
+
+.gold{
+    background-color: #FFD700;
+}
+
+.hotPink{
+    background-color: #FF69B4;
+}
+
+.deepPink{
+    background-color: #FF1493;
+}
+
+.darkTurquoise{
+    background-color: #00CED1;
+}
+
+.deepSkyBlue{
+    background-color: #00BFFF;
+}
+
+.indigo{
+    background-color: #4B0082;
+}
+
+.aquamarine{
+    background-color: #7FFFD4;
+}
+
+.thistle{
+    background-color: #D8BFD8;
+}
+
+.black{
+    background-color: transparent;
+    height: 25px;
+}
